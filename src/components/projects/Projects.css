@@ -1,0 +1,31 @@
+/* Projects Section Styles */
+
+.projects {
+    padding: 2rem 1rem;
+    background-color: var(--body-color);
+  }
+  
+  .projects__title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--title-color);
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  /* Responsive Styles */
+  
+  /* For medium devices */
+  @media screen and (max-width: 768px) {
+    .projects__title {
+      font-size: 1.75rem;
+    }
+  }
+  
+  /* For small devices */
+  @media screen and (max-width: 350px) {
+    .projects__title {
+      font-size: 1.5rem;
+    }
+  }
+  
