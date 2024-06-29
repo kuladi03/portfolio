@@ -1,4 +1,3 @@
-import React from 'react'
 import GIT from "../../assets/git.svg"
 import VSCODE from "../../assets/code.svg"
 import PYCHARM from "../../assets/pc.svg"

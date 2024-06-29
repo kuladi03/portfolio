@@ -1,4 +1,4 @@
-import React from 'react';
+import PropTypes from 'prop-types';
 import './ProjectCard.css';
 
 const ProjectCard = ({ title, description, technologies, image, githubLink }) => {
@@ -19,6 +19,14 @@ const ProjectCard = ({ title, description, technologies, image, githubLink }) =>
       </div>
     </div>
   );
+};
+
+ProjectCard.propTypes = {
+  title: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  technologies: PropTypes.arrayOf(PropTypes.string).isRequired,
+  image: PropTypes.string.isRequired,
+  githubLink: PropTypes.string.isRequired,
 };
 
 export default ProjectCard;

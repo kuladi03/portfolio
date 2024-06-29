@@ -1,4 +1,3 @@
-import React from 'react'
 import CPP from "../../assets/cpp.svg"
 import PY from "../../assets/python.svg"
 import JS from "../../assets/javascript.svg"

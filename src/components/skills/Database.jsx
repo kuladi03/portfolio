@@ -1,4 +1,3 @@
-import React from 'react'
 import SQL from "../../assets/sql.svg"
 import MONGODB from "../../assets/mongodb.svg"
 

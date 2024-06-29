@@ -1,4 +1,3 @@
-import React from 'react'
 import EXPRESS from "../../assets/express.svg"
 import NODE from "../../assets/node.svg"
 import NUMPY from "../../assets/numpy.svg"

@@ -1,4 +1,3 @@
-import React from 'react'
 import LINUX from "../../assets/linux.svg"
 import WINDOWS from "../../assets/windows.svg"
 

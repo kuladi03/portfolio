@@ -1,4 +1,3 @@
-import React from 'react'
 import "./skills.css";
 import Technical from './Technical';
 import Technologies from './Technologies';
