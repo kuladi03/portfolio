@@ -1,10 +1,5 @@
 import React from 'react';
 import './Contact.css';
-import LINKEDIN from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/linkedin.svg"
-import INSTAGRAM from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/insta.svg"
-import GITHUB from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/github.svg"
-import TWITTER from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/x.svg"
-
 
 const Contact = () => {
   return (

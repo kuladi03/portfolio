@@ -1,6 +1,6 @@
 import React from 'react'
-import SQL from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/sql.svg"
-import MONGODB from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/mongodb.svg"
+import SQL from "../../assets/sql.svg"
+import MONGODB from "../../assets/mongodb.svg"
 
 const Database = () => {
   return (

@@ -1,10 +1,10 @@
 import React from 'react'
-import EXPRESS from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/express.svg"
-import NODE from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/node.svg"
-import NUMPY from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/numpy.svg"
-import PANDAS from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/pandas.svg"
-import REACT from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/react.svg"
-import SCIKIT from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/scikit.svg"
+import EXPRESS from "../../assets/express.svg"
+import NODE from "../../assets/node.svg"
+import NUMPY from "../../assets/numpy.svg"
+import PANDAS from "../../assets/pandas.svg"
+import REACT from "../../assets/react.svg"
+import SCIKIT from "../../assets/scikit.svg"
 
 const Technologies = () => {
   return (

@@ -1,8 +1,8 @@
 import React from 'react'
-import CPP from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/cpp.svg"
-import PY from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/python.svg"
-import JS from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/javascript.svg"
-import MYSQL from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/mysql.svg"
+import CPP from "../../assets/cpp.svg"
+import PY from "../../assets/python.svg"
+import JS from "../../assets/javascript.svg"
+import MYSQL from "../../assets/mysql.svg"
 const Technical = () => {
   return (
     <div className="skills__content">

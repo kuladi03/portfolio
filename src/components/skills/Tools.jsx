@@ -1,8 +1,8 @@
 import React from 'react'
-import GIT from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/git.svg"
-import VSCODE from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/code.svg"
-import PYCHARM from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/pc.svg"
-import JIRA from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/jira.svg"
+import GIT from "../../assets/git.svg"
+import VSCODE from "../../assets/code.svg"
+import PYCHARM from "../../assets/pc.svg"
+import JIRA from "../../assets/jira.svg"
 
 
 const Tools = () => {

@@ -1,6 +1,6 @@
 import React from 'react'
-import LINUX from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/linux.svg"
-import WINDOWS from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/windows.svg"
+import LINUX from "../../assets/linux.svg"
+import WINDOWS from "../../assets/windows.svg"
 
 const Os = () => {
   return (

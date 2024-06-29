@@ -1,9 +1,9 @@
 import React from 'react';
 import ProjectCard from './ProjectCard';
 import './Projects.css';
-import EduDrop from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/Edudrop.png"
-import Aria from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/Aria.png"
-import Map from "D:/Projects/Aditya_PortFolio/aditya_portfolio/src/assets/Map.png"
+import EduDrop from "../../assets/Edudrop.png"
+import Aria from "../../assets/Aria.png"
+import Map from "../../assets/Map.png"
 
 const projects = [
   {
