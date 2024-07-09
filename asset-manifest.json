@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bf999310.css",
-    "main.js": "/portfolio/static/js/main.7d6f2ae7.js",
+    "main.css": "/portfolio/static/css/main.ef0d0c4c.css",
+    "main.js": "/portfolio/static/js/main.765569b6.js",
     "static/media/Map.png": "/portfolio/static/media/Map.5b713dd4ec99dde622b5.png",
     "static/media/Edudrop.png": "/portfolio/static/media/Edudrop.26e53a4f7419dc1e0f62.png",
     "static/media/Aria.png": "/portfolio/static/media/Aria.212d00bae1eb19f294da.png",
@@ -28,11 +28,11 @@
     "static/media/javascript.svg": "/portfolio/static/media/javascript.f194f20cf4c93c13c523b189ba5d6964.svg",
     "static/media/node.svg": "/portfolio/static/media/node.afb8a16e96d95d490b8600ac93af8094.svg",
     "static/media/pandas.svg": "/portfolio/static/media/pandas.f19743875642889a9cd9c27b94b59b79.svg",
-    "main.bf999310.css.map": "/portfolio/static/css/main.bf999310.css.map",
-    "main.7d6f2ae7.js.map": "/portfolio/static/js/main.7d6f2ae7.js.map"
+    "main.ef0d0c4c.css.map": "/portfolio/static/css/main.ef0d0c4c.css.map",
+    "main.765569b6.js.map": "/portfolio/static/js/main.765569b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf999310.css",
-    "static/js/main.7d6f2ae7.js"
+    "static/css/main.ef0d0c4c.css",
+    "static/js/main.765569b6.js"
   ]
 }
