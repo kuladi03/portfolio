@@ -26,6 +26,10 @@
     column-gap: 2rem;
 }
 
+.nav__list:hover {
+    color : #646cff;
+}
+
 .nav__link{
     display: flex;
     flex-direction: column;
@@ -46,7 +50,7 @@
 
 .activate_link,
 .nav__link:hover {
-    color: var(--title-color-dark);
+    color: var(#646cff);
 }
 
 /* BreakPoints */
@@ -98,7 +102,7 @@
     }
 
     .nav__close:hover{
-        color: var(--title-color-dark);
+        color: var(#646cff);
     }
 
     .nav__toggle{

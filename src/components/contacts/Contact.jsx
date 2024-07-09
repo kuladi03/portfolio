@@ -46,7 +46,7 @@ const Contact = () => {
           </div>
 
           <div className="contact__connect">
-            <p className="contact__connect-text">Let`&#39;`s connect😊!</p>
+            <p className="contact__connect-text">Let&#39;s connect😊!</p>
           </div>
         </div>
       </div>

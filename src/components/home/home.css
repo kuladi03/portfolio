@@ -23,7 +23,7 @@
 }
 
 .home__social-icon:hover {
-  color: #535bf2; /* Color change on hover */
+  color: #646cff; /* Color change on hover */
 }
  
  .home__title{
@@ -116,6 +116,12 @@
      font-size: 1.25rem;
      color: var(--title-color);
  }
+  
+  .button--flex img {
+    margin-left: 0.4rem; /* Space between text and image */
+    width: 38px; /* Adjust image size as needed */
+    height: 38px; /* Adjust image size as needed */
+  }
  
  /*=============== BREAKPOINTS ===============*/
  /* For large devices */

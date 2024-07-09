@@ -24,7 +24,7 @@ const About = () => {
                     <li><i className="uil uil-angle-right">Striving to innovate and create solutions that matter!</i></li>
                     </ul>
                     <br/>
-                    <b>Let`&#39;`s keep building a better tomorrow!</b>
+                    <b>Let&#39;s keep building a better tomorrow!</b>
                     </p>
                     <br />
                     <a download="" href={CV} className="button button--flex">Download Resume

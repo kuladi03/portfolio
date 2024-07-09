@@ -211,6 +211,10 @@ img {
     --big-font-size: 2.25rem;
   }
 
+  body {
+    margin: 0 0 var(--header-height) 0;
+  }
+
   .container {
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
