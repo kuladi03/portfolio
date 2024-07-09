@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.67def4c0.css",
+    "main.css": "/portfolio/static/css/main.60b49700.css",
     "main.js": "/portfolio/static/js/main.3542a804.js",
     "static/media/Map.png": "/portfolio/static/media/Map.5b713dd4ec99dde622b5.png",
     "static/media/Edudrop.png": "/portfolio/static/media/Edudrop.26e53a4f7419dc1e0f62.png",
     "static/media/Aria.png": "/portfolio/static/media/Aria.212d00bae1eb19f294da.png",
-    "static/media/Aditya_profile_pic.png": "/portfolio/static/media/Aditya_profile_pic.3fafc5d1ffcb9839d6be.png",
+    "static/media/Aditya_profile_pic.png": "/portfolio/static/media/Aditya_profile_pic.67fda3318f341b63e005.png",
     "static/media/Aditya Resume.pdf": "/portfolio/static/media/Aditya Resume.2fe5097c74d02a90aedc.pdf",
     "static/media/linux.svg": "/portfolio/static/media/linux.112f8b8de43450620bd2003cbee46fb9.svg",
     "static/media/scikit.svg": "/portfolio/static/media/scikit.1ee7f826d0836a462bc744d2c91b7981.svg",
@@ -29,11 +29,11 @@
     "static/media/javascript.svg": "/portfolio/static/media/javascript.f194f20cf4c93c13c523b189ba5d6964.svg",
     "static/media/node.svg": "/portfolio/static/media/node.afb8a16e96d95d490b8600ac93af8094.svg",
     "static/media/pandas.svg": "/portfolio/static/media/pandas.f19743875642889a9cd9c27b94b59b79.svg",
-    "main.67def4c0.css.map": "/portfolio/static/css/main.67def4c0.css.map",
+    "main.60b49700.css.map": "/portfolio/static/css/main.60b49700.css.map",
     "main.3542a804.js.map": "/portfolio/static/js/main.3542a804.js.map"
   },
   "entrypoints": [
-    "static/css/main.67def4c0.css",
+    "static/css/main.60b49700.css",
     "static/js/main.3542a804.js"
   ]
 }
