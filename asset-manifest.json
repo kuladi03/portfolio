@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.029e53ff.css",
-    "main.js": "/portfolio/static/js/main.3bb87094.js",
+    "main.js": "/portfolio/static/js/main.d799f747.js",
     "static/media/Map.png": "/portfolio/static/media/Map.5b713dd4ec99dde622b5.png",
     "static/media/Edudrop.png": "/portfolio/static/media/Edudrop.26e53a4f7419dc1e0f62.png",
     "static/media/Aria.png": "/portfolio/static/media/Aria.212d00bae1eb19f294da.png",
@@ -23,17 +23,17 @@
     "static/media/pc.svg": "/portfolio/static/media/pc.ae32c349841179c19b1dcb784555463d.svg",
     "static/media/scroll_down.svg": "/portfolio/static/media/scroll_down.200e2490b0a2e6738a909a7fdd7111b1.svg",
     "static/media/code.svg": "/portfolio/static/media/code.2e503728534c7a2ee939df84ddf90fdd.svg",
-    "static/media/button_icon.svg": "/portfolio/static/media/button_icon.2c280debbd194502bd7ea42807d58876.svg",
+    "static/media/button_icon.svg": "/portfolio/static/media/button_icon.cffc1776cb9afb34a7427739a624da9e.svg",
     "index.html": "/portfolio/index.html",
     "static/media/python.svg": "/portfolio/static/media/python.5578a0d3f282de4f3ce70220d5a24e16.svg",
     "static/media/javascript.svg": "/portfolio/static/media/javascript.f194f20cf4c93c13c523b189ba5d6964.svg",
     "static/media/node.svg": "/portfolio/static/media/node.afb8a16e96d95d490b8600ac93af8094.svg",
     "static/media/pandas.svg": "/portfolio/static/media/pandas.f19743875642889a9cd9c27b94b59b79.svg",
     "main.029e53ff.css.map": "/portfolio/static/css/main.029e53ff.css.map",
-    "main.3bb87094.js.map": "/portfolio/static/js/main.3bb87094.js.map"
+    "main.d799f747.js.map": "/portfolio/static/js/main.d799f747.js.map"
   },
   "entrypoints": [
     "static/css/main.029e53ff.css",
-    "static/js/main.3bb87094.js"
+    "static/js/main.d799f747.js"
   ]
 }
