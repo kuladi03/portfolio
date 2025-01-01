@@ -10,7 +10,7 @@ const projects = [
     description: 'A system for analyzing student dropout rates using machine learning.',
     technologies: ['Machine Learning', 'Data Visualization', 'React.js', 'MySQL', 'Educational Technology'],
     image: EduDrop,
-    githubLink: 'https://github.com/kuladi03/EduDrop-Student-DropOut-Analysis',
+    githubLink: 'https://edudrop.vercel.app/',
   },
   {
     title: 'Aria - Virtual Assistant',

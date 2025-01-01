@@ -28,11 +28,7 @@ const Contact = () => {
 
             <li><a href="https://www.linkedin.com/in/kuladi/" className="home__social icon" target="_blank">
                 <i className="uil uil-linkedin"></i>
-            </a></li>
-
-            <li><a href="https://www.instagram.com/adikulkarni03/" className="home__social icon" target="_blank">
-                <i className="uil uil-instagram"></i>
-            </a> </li>   
+            </a></li>   
 
             <li><a href="https://x.com/Adikulkarni03" className="home__social icon" target="_blank">
                 <i className="uil uil-twitter"></i>
